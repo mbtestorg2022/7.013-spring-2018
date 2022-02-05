@@ -142,7 +142,18 @@ Assessment
 
 The students' grades were based on the following activities:
 
-| - 51% Term exams{{< br >}}- 32% Final exam{{< br >}}- 17% Problem sets{{< br >}} 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+- 51% Term exams
+- 32% Final exam
+- 17% Problem sets
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Student Information
 -------------------

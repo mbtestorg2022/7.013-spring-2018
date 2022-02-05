@@ -8,44 +8,471 @@ All readings are from the required course textbook:
 
 Sadava, D.E., D.M. Hills, H.C. Heller, and M. Berenbaum. _Life, the Science of Biology,_ 10th edition. W. H. Freeman, 2012. ISBN: 9780321558237.
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction & The Cell | Chapter 1: Sections 1.1–1.3, Chapter 5: Sections 5.1–5.5 |
-| 2 | Biochemistry 1 | Chapter 2: Sections 2.1–2.4, Chapter 3: Section 3.1 & 3.3 |
-| 3 | Biochemistry 2 | Chapter 4: Section 4.1, Chapter 13: Section 13.2 |
-| 4 | Biochemistry 3 | Chapter 3: Section 3.2, Chapter 8: Sections 8.1, 8.3–8.5 |
-| 5 | Genetics 1 | Chapter 11: Section 11.1, 11.3–11.5 |
-| 6 | Genetics 2 | Chapter 12: Section 12.1 |
-| 7 | Genetics 3 | Chapter 12: Sections 12.4 & 12.5 |
-| 8 | Genetics 4 | Chapter 12: Section 12.2 |
-| 9 | Molecular Biology 1 | Chapter 13: Section 13.3 |
-| {{< td-colspan 3 >}}**EXAM I (1–8)**{{< /td-colspan >}} |||
-| 10 | Molecular Biology 2 | Chapter 14: Sections 14.1–14.4 |
-| 11 | Molecular Biology 3 | Chapter 14: Sections 14.1–14.4 |
-| 12 | Molecular Biology 4 | Chapter 14, Section 14.5 |
-| 13 | Recombinant DNA 1 | Chapter 18: Sections 18.1–18.3, 18.5 & 18.6 |
-| 14 | Recombinant DNA 2 | Chapter 13: Section 13.5, Chapter 17: Section 17.1–17.5 |
-| 15 | Recombinant DNA 3 | Chapter 18: Section 18.4, Chapter 17: Section 17.4 |
-| 16 | Recombinant DNA 4 | Chapter 15: Section 15.5 |
-| 17 | Cell Biology 1 | Chapter 14: Section 14.6 |
-| 18 | Cell Biology 2 | Chapter 14: Section 14.6 |
-| 19 | Cell Biology 3 | Chapter 7: Sections 7.1–7.5 |
-| 20 | Cell Biology 4 | Chapter 11: Sections 11.1–11.3 |
-| {{< td-colspan 3 >}}**EXAM II (9–18)**{{< /td-colspan >}} |||
-| 21 | Cancer 1 | Chapter 11: Section 11.7 |
-| 22 | Cancer 2 | Chapter 11: Section 11.7 |
-| 23 | Cancer 3 | Chapter 11: Section 11.7 |
-| 24 | Development 1 | Chapter 19: Sections 19.1–19.3 |
-| 25 | Development 2 | Chapter 19: Sections 19.4 & 19.5﻿ |
-| 26 | Stem Cells | Chapter 11: Section 11.6, Chapter 19: Sections 19.1 & 19.5 |
-| 27 | Tissue Repair | \[No Readings\] |
-| 28 | Tissue Engineering | \[No Readings\] |
-| 29 | Immunology 1 | Chapter 42: Sections 42.1–42.3﻿ |
-| {{< td-colspan 3 >}}**EXAM III (19–28)**{{< /td-colspan >}} |||
-| 30 | Immunology 2 | Chapter 42: Sections 42.4–42.6 |
-| 31 | Neurobiology 1 | Chapter 45: Sections 45.1–45.4 |
-| 32 | Neurobiology 2 | Chapter 46: Section 46.1 |
-| 33 | Neurobiology 3 | Chapter 47: Section 47.3 |
-| 34 | Neurobiology 4 | \[No Readings\] |
-| 35 | The Genomic Revolution | \[No Readings\] |
-| 36 | Future of Biology | \[No Readings\]
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction & The Cell
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 1: Sections 1.1–1.3, Chapter 5: Sections 5.1–5.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Biochemistry 1
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 2: Sections 2.1–2.4, Chapter 3: Section 3.1 & 3.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Biochemistry 2
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4: Section 4.1, Chapter 13: Section 13.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Biochemistry 3
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3: Section 3.2, Chapter 8: Sections 8.1, 8.3–8.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Genetics 1
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 11: Section 11.1, 11.3–11.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Genetics 2
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 12: Section 12.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Genetics 3
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 12: Sections 12.4 & 12.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Genetics 4
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 12: Section 12.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular Biology 1
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 13: Section 13.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**EXAM I (1–8)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular Biology 2
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 14: Sections 14.1–14.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular Biology 3
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 14: Sections 14.1–14.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular Biology 4
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 14, Section 14.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Recombinant DNA 1
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 18: Sections 18.1–18.3, 18.5 & 18.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Recombinant DNA 2
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 13: Section 13.5, Chapter 17: Section 17.1–17.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Recombinant DNA 3
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 18: Section 18.4, Chapter 17: Section 17.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Recombinant DNA 4
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 15: Section 15.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Cell Biology 1
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 14: Section 14.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Cell Biology 2
+{{< tdclose >}}
+{{< tdopen >}}
+﻿Chapter 14: Section 14.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Cell Biology 3
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7: Sections 7.1–7.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Cell Biology 4
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 11: Sections 11.1–11.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**EXAM II (9–18)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Cancer 1
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 11: Section 11.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Cancer 2
+{{< tdclose >}}
+{{< tdopen >}}
+﻿Chapter 11: Section 11.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Cancer 3
+{{< tdclose >}}
+{{< tdopen >}}
+﻿Chapter 11: Section 11.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Development 1
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 19: Sections 19.1–19.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Development 2
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 19: Sections 19.4 & 19.5﻿
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Stem Cells
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 11: Section 11.6, Chapter 19: Sections 19.1 & 19.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Tissue Repair
+{{< tdclose >}}
+{{< tdopen >}}
+\[No Readings\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Tissue Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+\[No Readings\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Immunology 1
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 42: Sections 42.1–42.3﻿
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**EXAM III (19–28)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Immunology 2
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 42: Sections 42.4–42.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Neurobiology 1
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 45: Sections 45.1–45.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Neurobiology 2
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 46: Section 46.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Neurobiology 3
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 47: Section 47.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Neurobiology 4
+{{< tdclose >}}
+{{< tdopen >}}
+\[No Readings\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+The Genomic Revolution
+{{< tdclose >}}
+{{< tdopen >}}
+\[No Readings\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Future of Biology
+{{< tdclose >}}
+{{< tdopen >}}
+\[No Readings\]
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
