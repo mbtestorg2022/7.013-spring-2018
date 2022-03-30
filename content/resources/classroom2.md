@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 465551c8-c00b-6528-3e4e-00794aecdbbe
 resourcetype: Image
 title: classroom2.jpg
 uid: 7915f171-8031-939e-c46f-8284dfd3eed0

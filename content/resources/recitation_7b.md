@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 465551c8-c00b-6528-3e4e-00794aecdbbe
 resourcetype: Image
 title: recitation_7b.jpg
 uid: 5f8cf413-f0f1-93f6-f1d2-070bca735a78
